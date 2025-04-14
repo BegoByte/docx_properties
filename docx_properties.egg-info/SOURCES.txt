@@ -1,0 +1,11 @@
+README.md
+setup.py
+docx_properties/__init__.py
+docx_properties/cli.py
+docx_properties/core.py
+docx_properties.egg-info/PKG-INFO
+docx_properties.egg-info/SOURCES.txt
+docx_properties.egg-info/dependency_links.txt
+docx_properties.egg-info/entry_points.txt
+docx_properties.egg-info/requires.txt
+docx_properties.egg-info/top_level.txt
